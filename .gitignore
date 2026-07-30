@@ -2,7 +2,6 @@
 .cursorrules
 .cursor/
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -43,3 +42,7 @@ debug/
 # Maintainer-only GitHub issue tooling (not published)
 imp
 # NOTE: /scripts/ is intentionally NOT ignored – deployment scripts are public.
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
